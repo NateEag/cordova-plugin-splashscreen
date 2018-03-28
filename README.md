@@ -197,7 +197,7 @@ If you don't need to target images to a specific idiom, you should create six im
 
 \* this image is required in order for iOS utilize the other images within this scale and idiom.
 
-> Note: If the 3x sizes look small too you, that's because there's only one device class that currently has a 3x density: the iPhone 6+/6s+/7+.
+> Note: If the 3x sizes look small to you, that's because there's only one device class that currently has a 3x density: the iPhone 6+/6s+/7+.
 
 The above looks like the following snippet when present in `config.xml`:
 
